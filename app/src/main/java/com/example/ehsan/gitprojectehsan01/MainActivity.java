@@ -18,8 +18,8 @@ public class MainActivity extends AppCompatActivity {
         btnok.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this, "Toast", Toast.LENGTH_SHORT).show();
-                startActivity(new Intent(MainActivity.this, Main2Activity.class));
+                Toast.makeText(MainActivity.this, "eeeeeee", Toast.LENGTH_SHORT).show();
+//                startActivity(new Intent(MainActivity.this, Main2Activity.class));
             }
 
         });
