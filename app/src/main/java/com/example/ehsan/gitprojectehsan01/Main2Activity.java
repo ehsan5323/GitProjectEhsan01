@@ -15,6 +15,6 @@ public class Main2Activity extends AppCompatActivity {
         textView= (TextView) findViewById(R.id.act2_txt);
         textView.setText("code ok");
         textView.setTextColor(getResources().getColor(R.color.colorPrimary));
-        Toast.makeText(this, "ffffffffff", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "ffffff", Toast.LENGTH_SHORT).show();
     }
 }
