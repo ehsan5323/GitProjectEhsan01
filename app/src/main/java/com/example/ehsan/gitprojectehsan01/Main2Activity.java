@@ -13,7 +13,7 @@ public class Main2Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
         textView= (TextView) findViewById(R.id.act2_txt);
-        textView.setText("code ok");
+        textView.setText("code ok44");
         textView.setTextColor(getResources().getColor(R.color.colorPrimary));
         Toast.makeText(this, "Ehsan", Toast.LENGTH_SHORT).show();
     }
